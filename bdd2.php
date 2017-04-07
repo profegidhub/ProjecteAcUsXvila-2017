@@ -18,7 +18,7 @@ class BDD {
 	*@var string $url Adreça del Servidor Mysql
 	*/
 	public $servername = "localhost";
-	public $a=0;
+	public $b=0;
 	
 	/**
 	*Funció per crear una nova connexió amb la BBDDD.
