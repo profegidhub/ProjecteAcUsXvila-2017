@@ -19,6 +19,7 @@ class BDD {
 	*/
 	public $servername = "localhost";
 	public $b=0;
+	public $c=1;
 	
 	/**
 	*Funció per crear una nova connexió amb la BBDDD.
